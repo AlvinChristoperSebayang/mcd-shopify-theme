@@ -145,6 +145,11 @@
         "type": "shopify://apps/xcloud-search-filter/blocks/cloudsearch_opt/8ddbd0bf-e311-492e-ab28-69d0ad268fac",
         "disabled": true,
         "settings": {}
+      },
+      "16881471024131275657": {
+        "type": "shopify://apps/searchanise-search-filter/blocks/app-embed/d8f24ada-02b1-458a-bbeb-5bf16d5c921e",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
