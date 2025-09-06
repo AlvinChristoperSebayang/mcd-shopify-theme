@@ -150,6 +150,11 @@
         "type": "shopify://apps/searchanise-search-filter/blocks/app-embed/d8f24ada-02b1-458a-bbeb-5bf16d5c921e",
         "disabled": true,
         "settings": {}
+      },
+      "4379643256173503040": {
+        "type": "shopify://apps/joy-subscription/blocks/app-embed/6aa30d9c-ff0b-4f29-a82d-a633d8e04b9a",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
