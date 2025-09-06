@@ -97,6 +97,10 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "joy_subscription_subscription_widget_mafDpV": {
+          "type": "shopify://apps/joy-subscription/blocks/subscription-widget/6aa30d9c-ff0b-4f29-a82d-a633d8e04b9a",
+          "settings": {}
         }
       },
       "block_order": [
@@ -112,7 +116,8 @@
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
-        "share"
+        "share",
+        "joy_subscription_subscription_widget_mafDpV"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -227,28 +232,12 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
-    },
-    "1757167758d50dbc15": {
-      "type": "apps",
-      "blocks": {
-        "joy_subscription_subscription_widget_jUrqDD": {
-          "type": "shopify://apps/joy-subscription/blocks/subscription-widget/6aa30d9c-ff0b-4f29-a82d-a633d8e04b9a",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "joy_subscription_subscription_widget_jUrqDD"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
     "main",
     "image-with-text",
     "multicolumn",
-    "related-products",
-    "1757167758d50dbc15"
+    "related-products"
   ]
 }
